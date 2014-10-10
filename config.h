@@ -1,4 +1,5 @@
 //Changed By B3
+//Changed By C4
 //  CItem用来储存一个文件所有tokne
 //成员 CString *token 储存token
 //		CString filename 储存文件名

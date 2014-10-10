@@ -2,6 +2,7 @@
 #pragma once
 #include "afxext.h"
 //#include "IndexLeft.h"
+//Changed By C4
 
 class CMBT :
 	public CBitmapButton
