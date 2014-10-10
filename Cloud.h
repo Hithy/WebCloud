@@ -1,3 +1,4 @@
+//Changed By B3
 #pragma once
 
 DWORD MyPow(DWORD x, DWORD y);
